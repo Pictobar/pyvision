@@ -1,3 +1,5 @@
+Documentation: http://sourceforge.net/apps/mediawiki/pyvision/index.php?title=Face_Detection_and_Eye_Localization
+
 PyVision is a object-oriented Computer Vision Toolkit (BSD Licenses) 
 that is designed to allow the rapid prototype and analysis of computer 
 vision algorithms.  Using python as a foundation this package provides 
